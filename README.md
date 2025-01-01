@@ -1,4 +1,4 @@
-```
+
 # Advanced Encryption System (
 
 The Advanced Encryption System  is a Python-based file and folder encryption tool designed for ease of use and strong security. It provides a sleek graphical user interface (GUI), robust encryption/decryption functionality using the `cryptography` library, and password strength analysis to ensure secure operations.
@@ -59,4 +59,4 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 ## Disclaimer
 This tool is intended for educational purposes. The developers are not responsible for any data loss or misuse.
-```
+
